@@ -1,0 +1,4 @@
+body { margin: 0; background: #F6F5FB; font-family: 'Plus Jakarta Sans', system-ui, sans-serif; }
+a { color: #5B21B6; text-decoration: none; }
+a:hover { color: #3B0F86; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid #A78BFA; outline-offset: 2px; }
